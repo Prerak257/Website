@@ -5,7 +5,7 @@ const Education = () => {
       degree: "Patan Multiple Campus Bachelor in Business Administration",
       institution: "Tribhuvan University",
       period: "2019- 2024",
-      details: "Graduated Magna Cum Laude with a 3.8 GPA. Relevant coursework: Advanced Financial Accounting, Auditing, Taxation, Business Law, and Ethics."
+      details: "Graduated from bachelors with the relevent coursework: Financial Accounting, Taxation, Investment Analysis, Business Law, and Ethics."
     },
     {
       degree: "V.S. Niketan Higher Secondary School",
