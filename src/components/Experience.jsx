@@ -6,7 +6,7 @@ const Experience = () => {
       company: "Green Tick Pvt Ltd.",
       period: "April 2025 - Present",
       responsibilities: [
-        "Prepared monthly financial statements for 15+ clients",
+        "Prepared financial statements for 15+ clients",
         "Assisted in tax return preparation for individuals and small businesses",
         "Reconciled bank statements and credit card transactions",
         "Maintained accounts payable and accounts receivable records",
